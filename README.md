@@ -2,11 +2,11 @@
 
 Builds of **typepper**, a spicy little typing game for your terminal and browser.
 
-- **Play in your browser:** https://leodiegues.github.io/typepper/
+- **Play in your browser:** https://leodiegues.com/typepper/
 - **Install in your terminal** (macOS, Linux):
 
   ```sh
-  curl -LsSf https://leodiegues.github.io/typepper/install.sh | sh
+  curl -LsSf https://leodiegues.com/typepper/install.sh | sh
   ```
 
   Windows (PowerShell):
